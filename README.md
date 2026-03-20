@@ -16,7 +16,6 @@ Application Python/Tkinter pour rechercher des trajets dans le réseau MTAG dans
 - Affichage du terminus du trajet (direction logique : headsign ou partie route)
 - `+1h` : recharge le plan pour l'heure suivante, indication textuelle
 - Liste arrêts par ligne en pop-up
-- Bouton haut droite `Made by Palmine` ouvrant profil GitHub
 
 ## Prérequis
 
@@ -50,7 +49,6 @@ python tkinter_tag.py
 
 ## Personnalisation
 
-- `tkinter_tag.py` : `self.github_url` en `TAGApp.__init__` pour changer le lien GitHub.
 - Ajouter / modifier dans `stops_dict` pour points non présents en API.
 - Éventuellement ajouter `line_names` pour liaisons spécifiques.
 
@@ -62,4 +60,4 @@ python tkinter_tag.py
 
 ## BUGS
 
-- Si vous constatez le moindre bug, n'hésitez pas à me le faire savoir dans *Issues* !
+- Si vous constatez le moindre bug, n'hésitez pas à me le faire savoir dans *Issues*
