@@ -58,6 +58,6 @@ python tkinter_tag.py
 - *Problème API 204 ?* l'app utilise les clusters pour trouver les arrêts connus.
 - *Problème interface* : vérifier que `tkinter` est installé (sous Windows inclus).
 
-## BUGS
+## Bugs
 
-- Si vous constatez le moindre bug, n'hésitez pas à me le faire savoir dans *Issues*
+- Si vous constatez le moindre bug, n'hésitez pas à me le faire savoir dans `Issues`
