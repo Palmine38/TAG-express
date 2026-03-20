@@ -54,12 +54,6 @@ python tkinter_tag.py
 - Ajouter / modifier dans `stops_dict` pour points non présents en API.
 - Éventuellement ajouter `line_names` pour liaisons spécifiques.
 
-## Structure du projet
-
-- `tkinter_tag.py` : application principale
-- `test/test.py` : version CLI (en cours de migrations)
-- `NIGGA TEST.py` : ancien script de débogage
-
 ## FAQ
 
 - *Pas d'itinéraire trouvé ?* Vérifier l'orthographe exact des arrêts.
