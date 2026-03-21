@@ -1,4 +1,4 @@
-# TAG Express - Calculateur d'Itinéraires
+# TAG Express PYTHON APP - Calculateur d'Itinéraires
 
 Application Python/Tkinter pour rechercher des trajets dans le réseau MTAG dans le but d'en faire un siteweb axé téléphone plus tard.
 
