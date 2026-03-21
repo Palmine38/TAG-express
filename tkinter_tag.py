@@ -71,10 +71,9 @@ class TAGApp:
         self.root.title("TAG Express - Calculateur d'Itinéraires")
         self.root.geometry("760x510")
 
-        # lien Github (modifiez ici)
-        self.github_url = "https://github.com/PALMINE"  # à changer avec votre profil
-
-        # bouton haut-droite
+        
+        self.github_url = "https://github.com/Palmine38"
+        
         top_frame = ttk.Frame(root)
         top_frame.grid(row=0, column=2, padx=4, pady=4, sticky='ne')
         self.github_btn = ttk.Button(top_frame, text="Made by Palmine", command=self.open_github)
